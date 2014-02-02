@@ -1,0 +1,9 @@
+{
+	"name": "PriorityList",
+	"repo": "Wizcorp/list-Priority",
+	"version": "0.1.0",
+	"scripts": [
+		"index.js"
+	],
+	"license": "MIT"
+}
