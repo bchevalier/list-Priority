@@ -1,0 +1,19 @@
+{
+  "name": "list-Priority",
+  "version": "0.1.1",
+  "description": "Priority List Datastructure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Wizcorp/list-Priority.git"
+  },
+  "author": "bchevalier",
+  "license": "MIT",
+  "gitHead": "5a33f9fff0510c713a32c78da81d89f2453c6122",
+  "bugs": {
+    "url": "https://github.com/Wizcorp/list-Priority/issues"
+  }
+}
